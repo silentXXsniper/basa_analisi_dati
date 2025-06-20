@@ -151,4 +151,4 @@ La completa esecuzione del codice piò richiedere diverse ore, i passaggi più l
 ## Ulteriori note
 Il codice è commentato ad ogni passaggio con del testo Mardown e all'inteno del codice stesso dovrebbero essere presenti sufficenti commenti per rendere la lettura scorrevole.
 
-Questo reame viene usato principalmente come presentazione del progetto.
+Il progetto da visionare per l'esame si chiama `analisi_umidità_terreno.ipynb`, il file `introduzione_a_h5pyfiles.ipynb` è una rapida spiegazione di come analizzare i file formato h5. Ho deciso di realizzarla perchè ho trovato il processo particoarlemente interessante e degno di nota.
