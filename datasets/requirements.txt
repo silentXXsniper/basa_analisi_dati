@@ -1,0 +1,23 @@
+# requirements.txt
+
+requests
+chardet
+numpy
+pandas
+matplotlib
+seaborn
+tqdm
+beautifulsoup4
+ipython
+scikit-learn
+scipy
+rasterio
+rioxarray
+geopandas
+fiona
+folium
+shapely
+cartopy
+h5py
+markdown
+pyodbcù
