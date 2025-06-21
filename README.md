@@ -94,6 +94,8 @@ In poco tempo il progetto venne realizzato e <a href="https://uniudamce-my.share
 
 Per mancaza di tempo il progetto originale non aveva delle correlazioni evidenti, quindi generare un moello AI non è stato possibile. Generare un modello LSTM preciso è ancora un obbiettivo distante, tuttavia questo progetto ha gettato delle basi ideali per questo corso universitario.
 
+il progetto iniziale si ispirò a una <a href="https://www.kaggle.com/code/sathyanarayanrao89/lstm-for-soil-moisture-prediction">pubblicazione kaggle</a>. Anche questo elaborato ha alcuni elementi stilistici comuni.
+
 A seguito alcuni estratti del primo progetto:
 
 
