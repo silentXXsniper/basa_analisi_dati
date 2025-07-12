@@ -1,52 +1,6 @@
 # README
 
 
-```python
-from IPython.display import display, HTML
-import markdown
-from IPython.display import Image
-
-# Custom CSS
-custom_css = """
-<style>
-
-    h1{
-        font-family: 'Georgia';
-        color: #34495e;
-        border-bottom: 5px solid #3498db;
-        padding-bottom: 10px;
-        
-    }
-
-    h2{
-        font-family: 'Georgia';
-        color: #34495e;
-        border-bottom: 3px solid #3498db;
-        padding-bottom: 10px;
-        
-    }
-        
-    p {
-        font-family: 'Arial';
-        font-size: 16px;
-        color: #2c3e50;
-        margin-top: 20px;
-        
-    }
-    
-    ul{
-    
-        color: #34495e;
-        font-size: 16px;
-    
-    }
-    
-</style>
-"""
-display(HTML(custom_css))
-```
-
-
 
 <style>
 
@@ -97,14 +51,6 @@ Per mancaza di tempo il progetto originale non aveva delle correlazioni evidenti
 il progetto iniziale si ispirò a una <a href="https://www.kaggle.com/code/sathyanarayanrao89/lstm-for-soil-moisture-prediction">pubblicazione kaggle</a>. Anche questo elaborato ha alcuni elementi stilistici comuni.
 
 A seguito alcuni estratti del primo progetto:
-
-
-```python
-display(Image(filename='per_presentazione/vecchio_progetto/correlazione.png'))
-display(Image(filename='per_presentazione/vecchio_progetto/distribuzione.png'))
-display(Image(filename='per_presentazione/vecchio_progetto/fasi.png'))
-display(Image(filename='per_presentazione/vecchio_progetto/precisione.png'))
-```
 
 
     
