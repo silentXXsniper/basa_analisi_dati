@@ -1,5 +1,11 @@
-# requirements.txt
+# Standard libraries (not needed in requirements.txt because they're built-in)
+# os
+# csv
+# zipfile
+# webbrowser
+# urllib
 
+# Third-party libraries
 requests
 chardet
 numpy
@@ -11,6 +17,8 @@ beautifulsoup4
 ipython
 scikit-learn
 scipy
+
+# Geospatial libraries
 rasterio
 rioxarray
 geopandas
@@ -18,6 +26,9 @@ fiona
 folium
 shapely
 cartopy
+
+# HDF5 file support
 h5py
+
+# Markdown rendering
 markdown
-pyodbcù
